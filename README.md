@@ -64,14 +64,9 @@
 ```
 
 ## 🔄 GitHub Actions 워크플로우 구성
-저장소 체크아웃
-
-Node.js 환경 설정
-
-의존성 설치 (npm install)
-
-Puppeteer 설치
-
-크롤링 스크립트 실행
-
-변경된 JSON 파일 자동 커밋 및 푸시
+- 저장소 체크아웃
+- Node.js 환경 설정
+- 의존성 설치 (npm install)
+- Puppeteer 설치
+- 크롤링 스크립트 실행
+- 변경된 JSON 파일 자동 커밋 및 푸시
