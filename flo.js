@@ -14,17 +14,10 @@ if (!fs.existsSync(folderPath)) {
 
 (async () => {
   // 브라우저 시작
-  const browser = await puppeteer.launch({ 
+  const browser = await puppeteer.launch({
     headless: "new",
-    args: [
-      '--no-sandbox',
-      '--disable-setuid-sandbox',
-      '--disable-dev-shm-usage',
-      '--disable-accelerated-2d-canvas',
-      '--no-first-run',
-      '--no-zygote',
-      '--disable-gpu'
-    ]
+    executablePath: process.env.CHROME_PATH,
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
   const page = await browser.newPage();
   

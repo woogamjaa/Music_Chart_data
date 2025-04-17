@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '18 2 * * *'  
+    - cron: '22 2 * * *'  # 매일 UTC 02:18 (한국 시간 11:18)에 실행
 
 jobs:
   build:
@@ -20,15 +20,12 @@ jobs:
       with:
         node-version: '18'
     
-    - name: Install Chrome dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y libxss1 libasound2 libatk-bridge2.0-0 libgtk-3-0 libgbm-dev
+    - name: Setup Chrome
+      uses: browser-actions/setup-chrome@latest
     
     - name: Install dependencies
       run: |
         npm install
-        npx puppeteer browsers install chrome
     
     - name: Run chart collection scripts
       run: |
