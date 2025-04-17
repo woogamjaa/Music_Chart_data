@@ -7,6 +7,11 @@ const current_date = new Date().toISOString().split('T')[0];
 const folderPath = 'apple';
 const filename = path.join(folderPath, `apple100_${current_date}.json`);
 
+// 디렉토리가 없으면 생성
+if (!fs.existsSync(folderPath)) {
+  fs.mkdirSync(folderPath, { recursive: true });
+}
+
 (async () => {
   const browser = await puppeteer.launch({
     headless: "new",
