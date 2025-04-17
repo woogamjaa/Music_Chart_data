@@ -15,7 +15,6 @@ if (!fs.existsSync(folderPath)) {
 (async () => {
     const browser = await puppeteer.launch({
         headless: "new",
-        executablePath: process.env.CHROME_PATH,
         args: ['--no-sandbox', '--disable-setuid-sandbox']
       });
   const page = await browser.newPage();

@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '22 2 * * *'  # 매일 UTC 02:18 (한국 시간 11:18)에 실행
+    - cron: '27 2 * * *'  # 매일 UTC 02:22 (한국 시간 11:22)에 실행
 
 jobs:
   build:
@@ -20,12 +20,15 @@ jobs:
       with:
         node-version: '18'
     
-    - name: Setup Chrome
-      uses: browser-actions/setup-chrome@latest
-    
     - name: Install dependencies
       run: |
         npm install
+    
+    - name: Install Puppeteer dependencies and Chrome
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libgbm-dev
+        npx puppeteer browsers install chrome
     
     - name: Run chart collection scripts
       run: |
