@@ -14,7 +14,18 @@ if (!fs.existsSync(folderPath)) {
 
 (async () => {
   // 브라우저 시작
-  const browser = await puppeteer.launch({ headless: "new" });
+  const browser = await puppeteer.launch({ 
+    headless: "new",
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage',
+      '--disable-accelerated-2d-canvas',
+      '--no-first-run',
+      '--no-zygote',
+      '--disable-gpu'
+    ]
+  });
   const page = await browser.newPage();
   
   // 페이지 로드
@@ -23,13 +34,14 @@ if (!fs.existsSync(folderPath)) {
   // 페이지가 완전히 로드될 때까지 대기
   await page.waitForSelector('.chart_lst');
   
-  // "더보기" 버튼을 찾아 클릭
-  try {
+  // 더보기 버튼을 찾아 클릭
+try {
     const moreButton = await page.$('.btn_list_more');
     if (moreButton) {
       console.log("Clicking '더보기' button.");
       await page.evaluate(button => button.click(), moreButton);
-      await page.waitForTimeout(3000); // 3초 대기
+      // waitForTimeout 대신 Promise로 대기
+      await page.evaluate(() => new Promise(resolve => setTimeout(resolve, 3000)));
     }
   } catch (error) {
     console.error("Error clicking '더보기':", error);
