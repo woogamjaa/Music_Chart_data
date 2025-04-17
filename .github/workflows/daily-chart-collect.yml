@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '27 2 * * *'  # 매일 UTC 02:22 (한국 시간 11:22)에 실행
+    - cron: '31 2 * * *'  # 매일 UTC 02:22 (한국 시간 11:22)에 실행
 
 jobs:
   build:
@@ -28,7 +28,8 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y libgbm-dev
-        npx puppeteer browsers install chrome
+        npm install -g puppeteer
+        puppeteer browsers install chrome
     
     - name: Run chart collection scripts
       run: |
