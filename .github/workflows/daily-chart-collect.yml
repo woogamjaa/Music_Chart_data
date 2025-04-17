@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '31 2 * * *'  # 매일 UTC 02:22 (한국 시간 11:22)에 실행
+    - cron: '34 2 * * *' # 매일 UTC 02:22 (한국 시간 11:22)에 실행
 
 jobs:
   build:
