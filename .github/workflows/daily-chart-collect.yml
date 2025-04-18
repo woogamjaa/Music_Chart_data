@@ -2,7 +2,7 @@ name: Daily Music Chart Collection
 
 on:
   schedule:
-    - cron: '32 10 * * *' # UTC 기준 오전 7시 32분 KST
+    - cron: '35 10 * * *'
 
 jobs:
   build:
