@@ -7,7 +7,6 @@ on:
      branches: [ "main" ]
   schedule:
     - cron: '0 22 * * *'   # UTC 22:00 (KST 오전 7:00)
-    - cron: '0 10 * * *'  # UTC 10:40 (KST 오후 7:00)
 
 jobs:
   build:
