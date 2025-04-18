@@ -1,8 +1,12 @@
 name: Daily Music Chart Collection
 
 on:
+  push:
+     branches: [ "main" ]
+  pull_request:
+     branches: [ "main" ]
   schedule:
-    - cron: '35 10 * * *'
+    - cron: '40 10 * * *'
 
 jobs:
   build:
