@@ -6,7 +6,8 @@ const path = require('path'); // 파일 및 디렉토리 경로를 처리하는 
 
 
 // 날짜 및 파일 구성  - 현재 날짜를 YYYY-MM-DD 형식으로 포맷
-const current_date = new Date().toISOString().split('T')[0]; // 현재 날짜를 YYYY-MM-DD 형식으로 가져옴
+// 현재 날짜를 한국 시간 기준으로 가져오기
+const current_date = new Date().toLocaleString('en-US', { timeZone: 'Asia/Seoul' }).split(',')[0].replace(/\//g, '-');
 const folderPath = 'apple'; // JSON 파일을 저장할 디렉토리 정의
 const filename = path.join(folderPath, `apple100_${current_date}.json`); // 현재 날짜를 포함한 고유한 파일 이름 생성
 

@@ -3,7 +3,8 @@ const fs = require('fs');
 const path = require('path');
 
 // 현재 날짜를 YYYY-MM-DD 형식으로 포맷
-const current_date = new Date().toISOString().split('T')[0];
+// 현재 날짜를 한국 시간 기준으로 가져오기
+const current_date = new Date().toLocaleString('en-US', { timeZone: 'Asia/Seoul' }).split(',')[0].replace(/\//g, '-');
 const folderPath = 'flo';
 const filename = path.join(folderPath, `flo100_${current_date}.json`);
 

@@ -1,17 +1,12 @@
 name: Daily Music Chart Collection
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
   schedule:
-    - cron: '58 21 * * *' # 10:00 PM UTC (7:00 AM KST) every day
+    - cron: '0 21 * * *' # UTC 기준 오전 6시 KST
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
     
@@ -21,8 +16,7 @@ jobs:
         node-version: '18'
     
     - name: Install dependencies
-      run: |
-        npm install
+      run: npm install
     
     - name: Install Puppeteer dependencies and Chrome
       run: |
@@ -33,10 +27,10 @@ jobs:
     
     - name: Run chart collection scripts
       run: |
-        node apple.js
-        node bugs.js
-        node flo.js
-        node melon.js
+        TZ='Asia/Seoul' node apple.js
+        TZ='Asia/Seoul' node bugs.js
+        TZ='Asia/Seoul' node flo.js
+        TZ='Asia/Seoul' node melon.js
     
     - name: Commit changes
       run: |
@@ -46,7 +40,7 @@ jobs:
         git add bugs/bugs100_*.json
         git add flo/flo100_*.json
         git add melon/melon100_*.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "차트 데이터 자동 수집 $(date +'%Y-%m-%d')"
+        git diff --quiet && git diff --staged --quiet || git commit -m "차트 데이터 자동 수집 $(TZ='Asia/Seoul' date +'%Y-%m-%d')"
     
     - name: Push changes
       uses: ad-m/github-push-action@master
