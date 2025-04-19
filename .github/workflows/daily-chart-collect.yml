@@ -39,7 +39,7 @@ jobs:
     - name: Commit changes
       run: |
         git config --global user.email "woogamjaa@gmail.com"
-        git config --global user.name "gamja"
+        git config --global user.name "woogamjaa"
         git add apple/apple100_*.json
         git add bugs/bugs100_*.json
         git add flo/flo100_*.json
