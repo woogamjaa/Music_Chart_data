@@ -44,7 +44,7 @@ jobs:
         git add bugs/bugs100_*.json
         git add flo/flo100_*.json
         git add melon/melon100_*.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "차트 데이터 자동 수집 $(TZ='Asia/Seoul' date +'%Y-%m-%d')"
+        git diff --quiet && git diff --staged --quiet || git commit -m "차트 데이터 자동 수집 $(TZ='Asia/Seoul' date +'%Y-%m-%d')" --author="woogamjaa <woogamjaa@gmail.com>"
     
     - name: Push changes
       uses: ad-m/github-push-action@master
