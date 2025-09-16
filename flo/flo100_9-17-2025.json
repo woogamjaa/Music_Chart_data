@@ -1,0 +1,702 @@
+[
+    {
+        "rank": "1",
+        "title": "Golden",
+        "artist": "HUNTR/X",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/607/552/39/04/439552607_184a9bab2623454b_o.jpg?1750382565141/dims/resize/140x140/quality/90",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "2",
+        "title": "Soda Pop",
+        "artist": "Saja Boys",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/607/552/39/04/439552607_184a9bab2623454b_o.jpg?1750382565141/dims/resize/140x140/quality/90",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "3",
+        "title": "사랑은 늘 도망가",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/973/716/06/04/406716973_615eb227_s.jpg?1633595946672/dims/resize/140x140/quality/90",
+        "album": "신사와 아가씨 OST Part.2"
+    },
+    {
+        "rank": "4",
+        "title": "뛰어(JUMP)",
+        "artist": "BLACKPINK",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/308/514/40/04/440514308_185109979d90dfd0_s.jpg?1752192279395/dims/resize/140x140/quality/90",
+        "album": "뛰어(JUMP)"
+    },
+    {
+        "rank": "5",
+        "title": "순간을 영원처럼",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "6",
+        "title": "우리들의 블루스",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "7",
+        "title": "Wonderful Life",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "8",
+        "title": "들꽃이 될게요",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "9",
+        "title": "ULSSIGU",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "10",
+        "title": "그댈 위한 멜로디",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "11",
+        "title": "답장을 보낸지",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "12",
+        "title": "비가 와서",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "13",
+        "title": "알겠어요 미안해요",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "14",
+        "title": "FAMOUS",
+        "artist": "ALLDAY PROJECT",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "FAMOUS"
+    },
+    {
+        "rank": "15",
+        "title": "돌아보지 마세요",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "16",
+        "title": "나는야 HERO",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "17",
+        "title": "우리에게 안녕",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "18",
+        "title": "XOXZ",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IVE SECRET"
+    },
+    {
+        "rank": "19",
+        "title": "Rich Man",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Rich Man - The 6th Mini Album"
+    },
+    {
+        "rank": "20",
+        "title": "다시 만날 수 있을까",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "21",
+        "title": "천국보다 아름다운",
+        "artist": "임영웅",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "천국보다 아름다운"
+    },
+    {
+        "rank": "22",
+        "title": "Drowning",
+        "artist": "WOODZ",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "OO-LI"
+    },
+    {
+        "rank": "23",
+        "title": "Your Idol",
+        "artist": "Saja Boys",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "24",
+        "title": "바이, 썸머",
+        "artist": "아이유 (IU)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "바이, 썸머"
+    },
+    {
+        "rank": "25",
+        "title": "너에게 닿기를",
+        "artist": "10CM",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "너에게 닿기를"
+    },
+    {
+        "rank": "26",
+        "title": "Dirty Work",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Dirty Work"
+    },
+    {
+        "rank": "27",
+        "title": "Whiplash",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Whiplash - The 5th Mini Album"
+    },
+    {
+        "rank": "28",
+        "title": "How It’s Done",
+        "artist": "HUNTR/X",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "29",
+        "title": "모르시나요(PROD.로코베리)",
+        "artist": "조째즈",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "모르시나요"
+    },
+    {
+        "rank": "30",
+        "title": "어제보다 슬픈 오늘",
+        "artist": "우디 (Woody)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "어제보다 슬픈 오늘"
+    },
+    {
+        "rank": "31",
+        "title": "시작의 아이",
+        "artist": "마크툽 (MAKTUB)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "시작의 아이 ハジマリのコ (Starting With You)"
+    },
+    {
+        "rank": "32",
+        "title": "like JENNIE",
+        "artist": "제니 (JENNIE)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Ruby"
+    },
+    {
+        "rank": "33",
+        "title": "시작의 아이 ❍",
+        "artist": "박다혜",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "시작의 아이 ❍ ハジマリのコ Starting With You : ♡"
+    },
+    {
+        "rank": "34",
+        "title": "꿈의 버스",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "The DECADE"
+    },
+    {
+        "rank": "35",
+        "title": "빛이 나는 사람",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "빛이 나는 사람"
+    },
+    {
+        "rank": "36",
+        "title": "쏜살",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "37",
+        "title": "여름이었다",
+        "artist": "H1-KEY (하이키)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "H1-KEY 4th Mini Album [Lovestruck]"
+    },
+    {
+        "rank": "38",
+        "title": "그대... 떠나도",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "39",
+        "title": "바람이 부는 날엔",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "40",
+        "title": "함께 가 줄래",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "41",
+        "title": "나는 반딧불",
+        "artist": "황가람",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "나는 반딧불"
+    },
+    {
+        "rank": "42",
+        "title": "Takedown",
+        "artist": "HUNTR/X",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "43",
+        "title": "봄날에",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "44",
+        "title": "별 헤는 밤",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "45",
+        "title": "HAPPY",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Fourever"
+    },
+    {
+        "rank": "46",
+        "title": "Dash",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "47",
+        "title": "한 페이지가 될 수 있게",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "The Book of Us : Gravity"
+    },
+    {
+        "rank": "48",
+        "title": "Island",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "49",
+        "title": "멸종위기사랑",
+        "artist": "이찬혁",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "EROS"
+    },
+    {
+        "rank": "50",
+        "title": "12:32 (A to T)",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "51",
+        "title": "WICKED",
+        "artist": "ALLDAY PROJECT",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "FAMOUS"
+    },
+    {
+        "rank": "52",
+        "title": "INSIDE OUT",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "The DECADE"
+    },
+    {
+        "rank": "53",
+        "title": "REBEL HEART",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IVE EMPATHY"
+    },
+    {
+        "rank": "54",
+        "title": "RIZZ",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "55",
+        "title": "천상연",
+        "artist": "이창섭",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))"
+    },
+    {
+        "rank": "56",
+        "title": "STYLE",
+        "artist": "Hearts2Hearts (하츠투하츠)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "STYLE"
+    },
+    {
+        "rank": "57",
+        "title": "APT.",
+        "artist": "로제 (ROSÉ)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "APT."
+    },
+    {
+        "rank": "58",
+        "title": "LIKE YOU BETTER",
+        "artist": "프로미스나인",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "From Our 20's"
+    },
+    {
+        "rank": "59",
+        "title": "Chroma Drift",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "60",
+        "title": "HOME SWEET HOME (feat. 태양, 대성)",
+        "artist": "G-DRAGON",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "HOME SWEET HOME (feat. 태양, 대성)"
+    },
+    {
+        "rank": "61",
+        "title": "Free",
+        "artist": "Rumi",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "62",
+        "title": "Flower",
+        "artist": "오반(OVAN)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "교회오빠"
+    },
+    {
+        "rank": "63",
+        "title": "청춘만화",
+        "artist": "이무진",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "만화 (滿花)"
+    },
+    {
+        "rank": "64",
+        "title": "오늘만 I LOVE YOU",
+        "artist": "BOYNEXTDOOR",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "오늘만 I LOVE YOU"
+    },
+    {
+        "rank": "65",
+        "title": "Welcome to the Show",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Fourever"
+    },
+    {
+        "rank": "66",
+        "title": "눈물참기",
+        "artist": "QWER",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "3rd Mini Album '난 네 편이야, 온 세상이 불협일지라도'"
+    },
+    {
+        "rank": "67",
+        "title": "가까운 듯 먼 그대여",
+        "artist": "카더가든",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "가까운 듯 먼 그대여"
+    },
+    {
+        "rank": "68",
+        "title": "Never Ending Story",
+        "artist": "아이유 (IU)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "꽃갈피 셋"
+    },
+    {
+        "rank": "69",
+        "title": "내게 사랑이 뭐냐고 물어본다면",
+        "artist": "로이킴",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "내게 사랑이 뭐냐고 물어본다면"
+    },
+    {
+        "rank": "70",
+        "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+        "artist": "너드커넥션 (Nerd Connection)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))"
+    },
+    {
+        "rank": "71",
+        "title": "MY LOVE(2025)",
+        "artist": "이예은",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "MY LOVE(2025)"
+    },
+    {
+        "rank": "72",
+        "title": "toxic till the end",
+        "artist": "로제 (ROSÉ)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "rosie"
+    },
+    {
+        "rank": "73",
+        "title": "Supernova",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Armageddon - The 1st Album"
+    },
+    {
+        "rank": "74",
+        "title": "What It Sounds Like",
+        "artist": "HUNTR/X",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "75",
+        "title": "숨바꼭질 (Hide and Seek)",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "숨바꼭질 (Hide and Seek)"
+    },
+    {
+        "rank": "76",
+        "title": "한번 더 이별",
+        "artist": "이창섭",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "한번 더 이별 (첫사랑 엔딩 X 이창섭)"
+    },
+    {
+        "rank": "77",
+        "title": "빌려온 고양이 (Do the Dance)",
+        "artist": "아일릿(ILLIT)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "bomb"
+    },
+    {
+        "rank": "78",
+        "title": "HANDS UP",
+        "artist": "MEOVV (미야오)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "MY EYES OPEN VVIDE"
+    },
+    {
+        "rank": "79",
+        "title": "소나기",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "선재 업고 튀어 OST Part 1"
+    },
+    {
+        "rank": "80",
+        "title": "슬픈 초대장",
+        "artist": "순순희 (지환)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "슬픈 초대장"
+    },
+    {
+        "rank": "81",
+        "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+        "artist": "AKMU (악뮤)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "항해"
+    },
+    {
+        "rank": "82",
+        "title": "멈추지 않아",
+        "artist": "PLAVE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "열혈사제2 OST Part.2"
+    },
+    {
+        "rank": "83",
+        "title": "운명 (2025)",
+        "artist": "먼데이 키즈",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "먼키의 발자국 Vol.1 With 이이경"
+    },
+    {
+        "rank": "84",
+        "title": "고민중독",
+        "artist": "QWER",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "1st Mini Album 'MANITO'"
+    },
+    {
+        "rank": "85",
+        "title": "HOT",
+        "artist": "LE SSERAFIM (르세라핌)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "HOT"
+    },
+    {
+        "rank": "86",
+        "title": "에피소드",
+        "artist": "이무진",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "에피소드"
+    },
+    {
+        "rank": "87",
+        "title": "Lose My Mind (feat. Doja Cat)",
+        "artist": "Don Toliver",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "F1 The Album (Cinematic Edition)"
+    },
+    {
+        "rank": "88",
+        "title": "ATTITUDE",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "IVE EMPATHY"
+    },
+    {
+        "rank": "89",
+        "title": "예뻤어",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Every DAY6 February"
+    },
+    {
+        "rank": "90",
+        "title": "TOO BAD (feat. Anderson .Paak)",
+        "artist": "G-DRAGON",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Übermensch"
+    },
+    {
+        "rank": "91",
+        "title": "Pookie",
+        "artist": "FIFTY FIFTY",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Day & Night"
+    },
+    {
+        "rank": "92",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "DRIP"
+    },
+    {
+        "rank": "93",
+        "title": "Supersonic",
+        "artist": "프로미스나인",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Supersonic"
+    },
+    {
+        "rank": "94",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Die With A Smile"
+    },
+    {
+        "rank": "95",
+        "title": "내 이름 맑음",
+        "artist": "QWER",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "2nd Mini Album 'Algorithm's Blossom'"
+    },
+    {
+        "rank": "96",
+        "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+        "artist": "TWICE (트와이스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "97",
+        "title": "Hype Boy",
+        "artist": "NewJeans",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "NewJeans 1st EP 'New Jeans'"
+    },
+    {
+        "rank": "98",
+        "title": "나는 아픈 건 딱 질색이니까",
+        "artist": "i-dle (아이들)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "2"
+    },
+    {
+        "rank": "99",
+        "title": "UP (KARINA Solo)",
+        "artist": "aespa",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "SYNK : PARALLEL LINE - Special Digital Single"
+    },
+    {
+        "rank": "100",
+        "title": "첫 만남은 계획대로 되지 않아",
+        "artist": "TWS (투어스)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "TWS 1st Mini Album ‘Sparkling Blue’"
+    }
+]
